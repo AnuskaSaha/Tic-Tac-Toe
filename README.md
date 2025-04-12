@@ -2,9 +2,9 @@
 
 A simple, elegant, and fully interactive web-based version of **Tic Tac Toe**, built using **HTML**, **CSS**, and **JavaScript**. With smooth animations and a clean interface, this project brings the timeless game to life right in your browser—no setup needed.
 
-![Desktop-Version](./screenshots/Desktop Version.png)
+![Desktop-Version](screenshots/Desktop-version.png)
 
-![Mobile-Version](./screenshots/mobile Version.png)
+![Mobile-Version](screenshots/mobile-version.png)
 
 ## ✨ Features
 
